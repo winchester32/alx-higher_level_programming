@@ -7,4 +7,5 @@ This class does nothing
 
 
 class Square:
+    """ represents a square"""
     pass
