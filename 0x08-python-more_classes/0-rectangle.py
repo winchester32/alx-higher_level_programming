@@ -5,6 +5,7 @@ this class does nothing
 
 """
 
+
 class Rectangle:
     """empty class"""
     pass
