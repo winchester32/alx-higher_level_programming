@@ -42,7 +42,7 @@ class Rectangle(Base):
         self.__height = value
 
     @property
-    def x(self, value):
+    def x(self):
         """set x coordinate"""
         return self.__x
 
